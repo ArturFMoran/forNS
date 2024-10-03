@@ -1,0 +1,16 @@
+.chart-container {
+  width: 100%;
+  height: auto; /* Автоматически определяем высоту контейнера */
+}
+
+.echart-container {
+  width: 100%;
+  height: 400px; /* Высота для каждого графика */
+  margin-bottom: 20px; /* Отступ между графиками */
+}
+
+.chart-title {
+  text-align: center; /* Центрируем заголовки графиков */
+  font-size: 18px; /* Размер шрифта заголовков */
+  margin-top: 20px; /* Отступ сверху */
+}
