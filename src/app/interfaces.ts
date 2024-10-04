@@ -25,8 +25,4 @@ export interface Channel {
   multiplier?: number;
 }
 
-// export interface Channel {
-//   name: string
-//   values: number[]
-//   id: number
-// }
+
